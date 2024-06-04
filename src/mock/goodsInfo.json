@@ -1,0 +1,553 @@
+{
+  "success": "true",
+  "data": [
+    {
+      "categoryCode": "003942",
+      "spuId": 22136,
+      "spuName": "OPPO Find N3 Flip AI手机",
+      "marketingText": "明星舒淇同款",
+      "skuId": 25167,
+      "skuName": "OPPO Find N3 Flip AI手机 月光缪斯 12GB+256GB 官方标配",
+      "mainImg": "https://msecfs.opposhop.cn/commons-media-picture/GOODS/20230829/5ace9b5ef00dd3b2f8723576bec74d89-782417846.png?_w_=480&_h_=480&x-oss-process=image%2Fresize%2Cm_mfit%2Climit_1%2Cw_480%2Ch_480",
+      "link": "https://www.opposhop.cn/products/25167.html?&us=fenleiye&um=003879&ut=rengong",
+      "promotionsList": [
+        {
+          "title": "分期",
+          "type": 1,
+          "descList": ["24期免息"],
+          "expandIdentityList": null
+        },
+        {
+          "title": "积分抵现",
+          "type": 5,
+          "descList": ["积分抵3%"],
+          "expandIdentityList": null
+        }
+      ],
+      "skuShortDesc": null,
+      "spuShortDesc": null,
+      "price": {
+        "marketPrice": "",
+        "originalPrice": null,
+        "price": "5999",
+        "pricePrefix": "",
+        "priceSuffix": "",
+        "buyPrice": null,
+        "currencyTag": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "priceInfo": {
+        "marketPrice": "",
+        "originalPrice": "",
+        "price": "5999",
+        "pricePrefix": "",
+        "priceSuffix": "",
+        "buyPrice": null,
+        "currencyTag": "￥",
+        "prefix": "",
+        "suffix": ""
+      },
+      "goodsTopCategoryId": 1,
+      "goodsTopCategoryName": "手机",
+      "goodsCategoryId": 26,
+      "goodsCategoryName": "Find系列",
+      "goodType": null,
+      "placeholderLabel": null
+    },
+    {
+      "categoryCode": "003942",
+      "spuId": 22051,
+      "spuName": "一加 Ace 2 Pro AI手机",
+      "marketingText": "重构性能想象",
+      "skuId": 24518,
+      "skuName": "一加 Ace 2 Pro AI手机 极光绿 16GB+512GB 官方标配",
+      "mainImg": "https://msecfs.opposhop.cn/commons-media-picture/GOODS/20230807/5ace9b5ef00dd3b2f8723576bec74d89-1767527608.png?_w_=480&_h_=480&x-oss-process=image%2Fresize%2Cm_mfit%2Climit_1%2Cw_480%2Ch_480",
+      "link": "https://www.opposhop.cn/products/24518.html?&us=fenleiye&um=003879&ut=rengong",
+      "promotionsList": [
+        {
+          "title": "分期",
+          "type": 1,
+          "descList": ["3期免息"],
+          "expandIdentityList": null
+        }
+      ],
+      "skuShortDesc": null,
+      "spuShortDesc": null,
+      "price": {
+        "marketPrice": "",
+        "originalPrice": null,
+        "price": "2799",
+        "pricePrefix": "到手价",
+        "priceSuffix": "",
+        "buyPrice": null,
+        "currencyTag": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "priceInfo": {
+        "marketPrice": "",
+        "originalPrice": "",
+        "price": "3099",
+        "pricePrefix": "到手价",
+        "priceSuffix": "",
+        "buyPrice": "2799",
+        "currencyTag": "￥",
+        "prefix": "到手价",
+        "suffix": ""
+      },
+      "goodsTopCategoryId": 45,
+      "goodsTopCategoryName": "OnePlus手机",
+      "goodsCategoryId": 6015,
+      "goodsCategoryName": "一加Ace系列",
+      "goodType": null,
+      "placeholderLabel": null
+    },
+    {
+      "categoryCode": "003942",
+      "spuId": 21858,
+      "spuName": "OPPO Reno10 AI手机",
+      "marketingText": "120Hz超清屏",
+      "skuId": 23894,
+      "skuName": "OPPO Reno10 AI手机 溢彩蓝 12GB+256GB 官方标配",
+      "mainImg": "https://msecfs.opposhop.cn/commons-media-picture/GOODS/20230515/129e18c1ad8a057f429386b4e7221d94-447934141.png?_w_=320&_h_=320",
+      "link": "https://www.opposhop.cn/products/23894.html?&us=fenleiye&um=003879&ut=rengong",
+      "promotionsList": [],
+      "skuShortDesc": null,
+      "spuShortDesc": null,
+      "price": {
+        "marketPrice": "",
+        "originalPrice": null,
+        "price": "2599",
+        "pricePrefix": "",
+        "priceSuffix": "",
+        "buyPrice": null,
+        "currencyTag": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "priceInfo": {
+        "marketPrice": "",
+        "originalPrice": "",
+        "price": "2599",
+        "pricePrefix": "",
+        "priceSuffix": "",
+        "buyPrice": null,
+        "currencyTag": "￥",
+        "prefix": "",
+        "suffix": ""
+      },
+      "goodsTopCategoryId": 1,
+      "goodsTopCategoryName": "手机",
+      "goodsCategoryId": 23,
+      "goodsCategoryName": "Reno系列",
+      "goodType": null,
+      "placeholderLabel": {
+        "type": 20,
+        "activityInfo": "缺货"
+      }
+    },
+    {
+      "categoryCode": "003942",
+      "spuId": 22655,
+      "spuName": "OPPO Watch X 全智能旗舰手表",
+      "marketingText": "OPPO 首款圆表",
+      "skuId": 26773,
+      "skuName": "OPPO Watch X 全智能旗舰手表 千帆蔚蓝 舒适型真皮表带款 官方标配",
+      "mainImg": "https://msecfs.opposhop.cn/commons-media-picture/GOODS/20240207/14c112d0ec8c45bd6ab9a512ab4b7bae1082782537.png?_w_=480&_h_=480&x-oss-process=image%2Fresize%2Cm_mfit%2Climit_1%2Cw_480%2Ch_480",
+      "link": "https://www.opposhop.cn/products/26773.html?&us=fenleiye&um=003879&ut=rengong",
+      "promotionsList": [
+        {
+          "title": "分期",
+          "type": 1,
+          "descList": ["12期免息"],
+          "expandIdentityList": null
+        },
+        {
+          "title": "积分抵现",
+          "type": 5,
+          "descList": ["积分抵50元"],
+          "expandIdentityList": null
+        }
+      ],
+      "skuShortDesc": null,
+      "spuShortDesc": null,
+      "price": {
+        "marketPrice": "",
+        "originalPrice": null,
+        "price": "2499",
+        "pricePrefix": "",
+        "priceSuffix": "",
+        "buyPrice": null,
+        "currencyTag": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "priceInfo": {
+        "marketPrice": "",
+        "originalPrice": "",
+        "price": "2499",
+        "pricePrefix": "",
+        "priceSuffix": "",
+        "buyPrice": null,
+        "currencyTag": "￥",
+        "prefix": "",
+        "suffix": ""
+      },
+      "goodsTopCategoryId": 2,
+      "goodsTopCategoryName": "配件",
+      "goodsCategoryId": 27,
+      "goodsCategoryName": "智能穿戴（核心品）",
+      "goodType": null,
+      "placeholderLabel": null
+    },
+    {
+      "categoryCode": "003942",
+      "spuId": 22147,
+      "spuName": "OPPO Watch 4 Pro 全智能手表",
+      "marketingText": "一键60秒体检",
+      "skuId": 25179,
+      "skuName": "OPPO Watch 4 Pro 全智能手表 极夜黑 氟橡胶表带款 官方标配",
+      "mainImg": "https://msecfs.opposhop.cn/commons-media-picture/GOODS/20230822/406fece74aaff40dc665b828437a0627-2127046384.png?_w_=480&_h_=480&x-oss-process=image%2Fresize%2Cm_mfit%2Climit_1%2Cw_480%2Ch_480",
+      "link": "https://www.opposhop.cn/products/25179.html?&us=fenleiye&um=003879&ut=rengong",
+      "promotionsList": [
+        {
+          "title": "分期",
+          "type": 1,
+          "descList": ["6期免息"],
+          "expandIdentityList": null
+        },
+        {
+          "title": "积分抵现",
+          "type": 5,
+          "descList": ["积分抵20元"],
+          "expandIdentityList": null
+        }
+      ],
+      "skuShortDesc": null,
+      "spuShortDesc": null,
+      "price": {
+        "marketPrice": "",
+        "originalPrice": null,
+        "price": "2249",
+        "pricePrefix": "到手价",
+        "priceSuffix": "",
+        "buyPrice": null,
+        "currencyTag": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "priceInfo": {
+        "marketPrice": "",
+        "originalPrice": "",
+        "price": "2299",
+        "pricePrefix": "到手价",
+        "priceSuffix": "",
+        "buyPrice": "2249",
+        "currencyTag": "￥",
+        "prefix": "到手价",
+        "suffix": ""
+      },
+      "goodsTopCategoryId": 2,
+      "goodsTopCategoryName": "配件",
+      "goodsCategoryId": 27,
+      "goodsCategoryName": "智能穿戴（核心品）",
+      "goodType": null,
+      "placeholderLabel": null
+    },
+    {
+      "categoryCode": "003942",
+      "spuId": 21988,
+      "spuName": "OPPO K11",
+      "marketingText": "旗舰影像 四年流畅",
+      "skuId": 24378,
+      "skuName": "OPPO K11 冰川蓝 12GB+512GB 官方标配",
+      "mainImg": "https://msecfs.opposhop.cn/commons-media-picture/GOODS/20230724/c86457a4c32ac7ff362699380edcd8a0332137622.png?_w_=480&_h_=480&x-oss-process=image%2Fresize%2Cm_mfit%2Climit_1%2Cw_480%2Ch_480",
+      "link": "https://www.opposhop.cn/products/24378.html?&us=fenleiye&um=003879&ut=rengong",
+      "promotionsList": [
+        {
+          "title": "领券",
+          "type": 3,
+          "descList": ["满1000减100"],
+          "expandIdentityList": null
+        },
+        {
+          "title": "积分抵现",
+          "type": 5,
+          "descList": ["积分抵50元"],
+          "expandIdentityList": null
+        }
+      ],
+      "skuShortDesc": null,
+      "spuShortDesc": null,
+      "price": {
+        "marketPrice": "",
+        "originalPrice": null,
+        "price": "1599",
+        "pricePrefix": "到手价",
+        "priceSuffix": "",
+        "buyPrice": null,
+        "currencyTag": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "priceInfo": {
+        "marketPrice": "",
+        "originalPrice": "",
+        "price": "1899",
+        "pricePrefix": "到手价",
+        "priceSuffix": "",
+        "buyPrice": "1599",
+        "currencyTag": "￥",
+        "prefix": "到手价",
+        "suffix": ""
+      },
+      "goodsTopCategoryId": 1,
+      "goodsTopCategoryName": "手机",
+      "goodsCategoryId": 24,
+      "goodsCategoryName": "K系列",
+      "goodType": null,
+      "placeholderLabel": null
+    },
+    {
+      "categoryCode": "003942",
+      "spuId": 21680,
+      "spuName": "OPPO Pad 2",
+      "marketingText": "+1元赠小欧手办",
+      "skuId": 23405,
+      "skuName": "OPPO Pad 2 光羽金 8GB+256GB 官方标配",
+      "mainImg": "https://msecfs.opposhop.cn/commons-media-picture/GOODS/20230317/5ace9b5ef00dd3b2f8723576bec74d891545612205.png?_w_=320&_h_=320",
+      "link": "https://www.opposhop.cn/products/23405.html?&us=fenleiye&um=003879&ut=rengong",
+      "promotionsList": [
+        {
+          "title": "分期",
+          "type": 1,
+          "descList": ["12期免息"],
+          "expandIdentityList": null
+        },
+        {
+          "title": "赠品",
+          "type": 2,
+          "descList": ["赠"],
+          "expandIdentityList": null
+        },
+        {
+          "title": "领券",
+          "type": 3,
+          "descList": ["满2499减200"],
+          "expandIdentityList": null
+        },
+        {
+          "title": "积分抵现",
+          "type": 5,
+          "descList": ["积分抵50元"],
+          "expandIdentityList": null
+        }
+      ],
+      "skuShortDesc": null,
+      "spuShortDesc": null,
+      "price": {
+        "marketPrice": "",
+        "originalPrice": null,
+        "price": "2299",
+        "pricePrefix": "到手价",
+        "priceSuffix": "",
+        "buyPrice": null,
+        "currencyTag": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "priceInfo": {
+        "marketPrice": "",
+        "originalPrice": "",
+        "price": "2699",
+        "pricePrefix": "到手价",
+        "priceSuffix": "",
+        "buyPrice": "2299",
+        "currencyTag": "￥",
+        "prefix": "到手价",
+        "suffix": ""
+      },
+      "goodsTopCategoryId": 2,
+      "goodsTopCategoryName": "配件",
+      "goodsCategoryId": 25030,
+      "goodsCategoryName": "OPPO平板（核心品）",
+      "goodType": null,
+      "placeholderLabel": null
+    },
+    {
+      "categoryCode": "003942",
+      "spuId": 21669,
+      "spuName": "OPPO Enco Free3 真无线降噪耳机",
+      "marketingText": "支持个性化定制",
+      "skuId": 23359,
+      "skuName": "OPPO Enco Free3 真无线降噪耳机 竹影绿",
+      "mainImg": "https://msecfs.opposhop.cn/commons-media-picture/GOODS/20230314/4374263976e2a8994045f278ab419704-1410764004.png?_w_=320&_h_=320",
+      "link": "https://www.opposhop.cn/products/23359.html?&us=fenleiye&um=003879&ut=rengong",
+      "promotionsList": [
+        {
+          "title": "分期",
+          "type": 1,
+          "descList": ["3期免息"],
+          "expandIdentityList": null
+        },
+        {
+          "title": "积分抵现",
+          "type": 5,
+          "descList": ["积分抵30元"],
+          "expandIdentityList": null
+        }
+      ],
+      "skuShortDesc": null,
+      "spuShortDesc": null,
+      "price": {
+        "marketPrice": "",
+        "originalPrice": null,
+        "price": "329",
+        "pricePrefix": "到手价",
+        "priceSuffix": "",
+        "buyPrice": null,
+        "currencyTag": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "priceInfo": {
+        "marketPrice": "",
+        "originalPrice": "",
+        "price": "499",
+        "pricePrefix": "到手价",
+        "priceSuffix": "",
+        "buyPrice": "329",
+        "currencyTag": "￥",
+        "prefix": "到手价",
+        "suffix": ""
+      },
+      "goodsTopCategoryId": 2,
+      "goodsTopCategoryName": "配件",
+      "goodsCategoryId": 19,
+      "goodsCategoryName": "蓝牙耳机（核心品）",
+      "goodType": null,
+      "placeholderLabel": null
+    },
+    {
+      "categoryCode": "003942",
+      "spuId": 22517,
+      "spuName": "一加 Buds 3 真无线降噪耳机",
+      "marketingText": "普及旗舰音质",
+      "skuId": 26326,
+      "skuName": "一加 Buds 3 真无线降噪耳机 深空灰",
+      "mainImg": "https://msecfs.opposhop.cn/commons-media-picture/GOODS/20240325/ef20a4392e0bc9eae594e7d7cbdeb4991641265131.png?_w_=480&_h_=480&x-oss-process=image%2Fresize%2Cm_mfit%2Climit_1%2Cw_480%2Ch_480",
+      "link": "https://www.opposhop.cn/products/26326.html?&us=fenleiye&um=003879&ut=rengong",
+      "promotionsList": [
+        {
+          "title": "分期",
+          "type": 1,
+          "descList": ["3期免息"],
+          "expandIdentityList": null
+        },
+        {
+          "title": "赠品",
+          "type": 2,
+          "descList": ["赠"],
+          "expandIdentityList": null
+        },
+        {
+          "title": "积分抵现",
+          "type": 5,
+          "descList": ["积分抵30元"],
+          "expandIdentityList": null
+        }
+      ],
+      "skuShortDesc": null,
+      "spuShortDesc": null,
+      "price": {
+        "marketPrice": "",
+        "originalPrice": null,
+        "price": "429",
+        "pricePrefix": "到手价",
+        "priceSuffix": "",
+        "buyPrice": null,
+        "currencyTag": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "priceInfo": {
+        "marketPrice": "",
+        "originalPrice": "",
+        "price": "499",
+        "pricePrefix": "到手价",
+        "priceSuffix": "",
+        "buyPrice": "429",
+        "currencyTag": "￥",
+        "prefix": "到手价",
+        "suffix": ""
+      },
+      "goodsTopCategoryId": 46,
+      "goodsTopCategoryName": "OnePlus配件",
+      "goodsCategoryId": 53,
+      "goodsCategoryName": "OnePlus耳机",
+      "goodType": null,
+      "placeholderLabel": null
+    },
+    {
+      "categoryCode": "003942",
+      "spuId": 22362,
+      "spuName": "OPPO Pad Air2",
+      "marketingText": "直播间加赠礼盒",
+      "skuId": 27763,
+      "skuName": "OPPO Pad Air2 极光紫 6GB+128GB 官方标配",
+      "mainImg": "https://msecfs.opposhop.cn/commons-media-picture/GOODS/20240515/ef8c97069564b65ff74f83968d41dbca-300711629.png?_w_=480&_h_=480&x-oss-process=image%2Fresize%2Cm_mfit%2Climit_1%2Cw_480%2Ch_480",
+      "link": "https://www.opposhop.cn/products/27763.html?&us=fenleiye&um=003879&ut=rengong",
+      "promotionsList": [
+        {
+          "title": "新品",
+          "type": 0,
+          "descList": ["新品"],
+          "expandIdentityList": null
+        },
+        {
+          "title": "分期",
+          "type": 1,
+          "descList": ["3期免息"],
+          "expandIdentityList": null
+        },
+        {
+          "title": "赠品",
+          "type": 2,
+          "descList": ["赠"],
+          "expandIdentityList": null
+        }
+      ],
+      "skuShortDesc": null,
+      "spuShortDesc": null,
+      "price": {
+        "marketPrice": "",
+        "originalPrice": null,
+        "price": "1099",
+        "pricePrefix": "到手价",
+        "priceSuffix": "",
+        "buyPrice": null,
+        "currencyTag": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "priceInfo": {
+        "marketPrice": "",
+        "originalPrice": "",
+        "price": "1299",
+        "pricePrefix": "到手价",
+        "priceSuffix": "",
+        "buyPrice": "1099",
+        "currencyTag": "￥",
+        "prefix": "到手价",
+        "suffix": ""
+      },
+      "goodsTopCategoryId": 2,
+      "goodsTopCategoryName": "配件",
+      "goodsCategoryId": 25030,
+      "goodsCategoryName": "OPPO平板（核心品）",
+      "goodType": null,
+      "placeholderLabel": null
+    }
+  ]
+}

@@ -1,1 +1,0 @@
-<template>Category</template>

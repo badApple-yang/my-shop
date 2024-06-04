@@ -3,9 +3,6 @@
     <van-tabbar-item replace :to="{ name: 'home' }" icon="home-o"
       >首页</van-tabbar-item
     >
-    <van-tabbar-item replace :to="{ name: 'category' }" icon="apps-o"
-      >分类
-    </van-tabbar-item>
     <van-tabbar-item replace :to="{ name: 'message' }" icon="chat-o" badge="4"
       >消息</van-tabbar-item
     >

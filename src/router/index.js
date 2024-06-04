@@ -14,10 +14,10 @@ const router = createRouter({
       meta: { title: "首页", name: "home", isTab: true },
     },
     {
-      path: "/category",
-      component: () => import("../pages/Category.vue"),
-      name: "category",
-      meta: { title: "分类", isTab: true, isShowNav: true },
+      path: "/goodsDetail",
+      component: () => import("../pages/GoodsDetail.vue"),
+      name: "GoodsDetail",
+      meta: { title: "商品详情", isTab: true, isShowNav: true },
     },
     {
       path: "/message",

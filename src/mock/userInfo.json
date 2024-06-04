@@ -1,0 +1,9 @@
+{
+  "success": "true",
+  "data": {
+    "id": "2211230222",
+    "avatar": "../assets/images/avatar.jpg",
+    "username": "刁育鑫",
+    "isLogin": true
+  }
+}
